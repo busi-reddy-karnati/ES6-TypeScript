@@ -18,7 +18,7 @@
 //         },1000);
 //     }
 // };
-//Solution 1
+//Solution 2
 // This gets context from outside.
 var employee = {
     name: "Busi",
