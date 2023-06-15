@@ -1,0 +1,1 @@
+import {fname, lname} from "6es6Modules\src\ModuleA.js";
