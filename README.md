@@ -1,3 +1,5 @@
+# ES-2015 for React
+
 in tsconfig.json: "outDir": "scripts/", specifies the output directory for all the js code generated
 
 Each ts script gets converted to a js script on compilation
